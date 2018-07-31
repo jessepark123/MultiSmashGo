@@ -7,7 +7,7 @@
 #include "CharacterBase.generated.h"
 
 UCLASS()
-class SMACKTOWN_API ACharacterBase : public ACharacter
+class SMASHBRO_API ACharacterBase : public ACharacter
 {
 	GENERATED_BODY()
 
@@ -15,17 +15,32 @@ public:
 	// Sets default values for this character's properties
 	ACharacterBase();
 
+	UPROPERTY(EditAnywhere)
+		float TapTherhold;
+	UPROPERTY(EditAnywhere)
+		float Dashdistance;
+
+	float Deltatime;
+	float LastTaptime;
+
+	UPROPERTY(EditAnywhere)
+		float Movespeed;
+
+	FVector addforce;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-	
-	
+	void MoveRight(float amount);
+	void doubletap();
+	void Dashinput();
+	void Dashrelease();
 };
