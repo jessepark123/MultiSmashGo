@@ -1,0 +1,976 @@
+﻿Log file open, 07/30/18 16:58:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SmackTown
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1901061180) SRandInit(-1901061179).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.388509
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.266s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Binaries/Win64/UE4Editor-SmackTown.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am PF314 (10.128.171.222:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.30-23.58.17:604][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.30-23.58.17:604][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.30-23.58.17:628][  0]LogInit: Computer: PF314
+[2018.07.30-23.58.17:628][  0]LogInit: User: gd48haotse
+[2018.07.30-23.58.17:628][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.30-23.58.17:628][  0]LogInit: High frequency timer resolution =3.410075 MHz
+[2018.07.30-23.58.17:628][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.07.30-23.58.17:628][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.30-23.58.17:628][  0]LogMemory: Process Physical Memory: 279.27 MB used, 279.27 MB peak
+[2018.07.30-23.58.17:628][  0]LogMemory: Process Virtual Memory: 269.82 MB used, 269.82 MB peak
+[2018.07.30-23.58.17:629][  0]LogMemory: Physical Memory: 12418.16 MB used,  20266.08 MB free, 32684.24 MB total
+[2018.07.30-23.58.17:629][  0]LogMemory: Virtual Memory: 720.17 MB used,  20266.08 MB free, 134217728.00 MB total
+[2018.07.30-23.58.17:656][  0]LogInit: Using OS detected language (en-US).
+[2018.07.30-23.58.17:656][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.30-23.58.17:708][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.30-23.58.18:199][  0]LogStreaming: Display: Took  0.543s to EndInitTextLocalization.
+[2018.07.30-23.58.18:200][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.30-23.58.18:269][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.30-23.58.18:269][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.30-23.58.20:888][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.30-23.58.20:940][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+[2018.07.30-23.58.20:940][  0]LogD3D11RHI:       8092/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.30-23.58.20:942][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.30-23.58.20:942][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.30-23.58.20:942][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.30-23.58.20:948][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.30-23.58.20:948][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.30-23.58.20:948][  0]LogWindows: EnumDisplayDevices:
+[2018.07.30-23.58.20:949][  0]LogWindows:    0. 'NVIDIA Quadro P4000' (P:1 D:1)
+[2018.07.30-23.58.20:949][  0]LogWindows:    1. 'NVIDIA Quadro P4000' (P:0 D:1)
+[2018.07.30-23.58.20:949][  0]LogWindows:    2. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.07.30-23.58.20:949][  0]LogWindows:    3. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.07.30-23.58.20:949][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.07.30-23.58.20:949][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P4000
+[2018.07.30-23.58.20:949][  0]LogD3D11RHI:   Driver Version: 391.33 (internal:23.21.13.9133, unified:391.33)
+[2018.07.30-23.58.20:949][  0]LogD3D11RHI:      Driver Date: 3-22-2018
+[2018.07.30-23.58.20:949][  0]LogRHI: Texture pool is 5665 MB (70% of 8092 MB)
+[2018.07.30-23.58.20:985][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.30-23.58.20:985][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.30-23.58.20:985][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.30-23.58.21:003][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.30-23.58.21:005][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Intermediate/Shaders/WorkingDirectory/7880/).
+[2018.07.30-23.58.21:005][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gd48hao-tse/AppData/Local/Temp/UnrealShaderWorkingDir/591E97AB4B0801192881B9AC69A1AF60/'.
+[2018.07.30-23.58.21:269][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.30-23.58.21:284][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.30-23.58.21:299][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.30-23.58.21:314][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.30-23.58.21:331][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.30-23.58.21:345][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.30-23.58.21:361][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.30-23.58.21:375][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.30-23.58.21:382][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.30-23.58.21:396][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.30-23.58.21:409][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.30-23.58.21:421][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.30-23.58.21:434][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.30-23.58.21:447][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.30-23.58.21:460][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.30-23.58.21:487][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.30-23.58.21:487][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.30-23.58.21:502][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.30-23.58.21:503][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.30-23.58.21:545][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.30-23.58.21:557][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.30-23.58.21:570][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.30-23.58.21:585][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.30-23.58.21:599][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.30-23.58.21:616][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.30-23.58.21:616][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.30-23.58.21:802][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.30-23.58.21:802][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.30-23.58.21:802][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.30-23.58.23:311][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.30-23.58.23:391][  0]LogDerivedDataCache: Loaded boot cache 0.08s 77MB C:/Users/gd48hao-tse/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.30-23.58.23:391][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gd48hao-tse/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.30-23.58.23:391][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.30-23.58.23:391][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.30-23.58.23:391][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.30-23.58.23:391][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.30-23.58.23:413][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.30-23.58.23:429][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gd48hao-tse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.30-23.58.23:440][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.30-23.58.23:441][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.30-23.58.23:451][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.30-23.58.23:451][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.30-23.58.23:806][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2018.07.30-23.58.24:139][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.30-23.58.24:348][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.30-23.58.24:352][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.30-23.58.24:352][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.30-23.58.24:352][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.30-23.58.24:352][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.30-23.58.24:352][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.30-23.58.24:427][  0]LogNetVersion: SmackTown , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1218661097)
+[2018.07.30-23.58.25:269][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.167729 seconds
+[2018.07.30-23.58.25:275][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.30-23.58.25:275][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.30-23.58.25:275][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.30-23.58.29:728][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.30-23.58.29:792][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.30-23.58.30:314][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.455664ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.07.30-23.58.30:619][  0]SourceControl: Source control is disabled
+[2018.07.30-23.58.30:620][  0]SourceControl: Source control is disabled
+[2018.07.30-23.58.30:656][  0]SourceControl: Source control is disabled
+[2018.07.30-23.58.30:692][  0]SourceControl: Source control is disabled
+[2018.07.30-23.58.31:598][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.30-23.58.31:854][  0]LogOcInput: OculusInput pre-init called
+[2018.07.30-23.58.32:024][  0]LogEngine: Initializing Engine...
+[2018.07.30-23.58.32:026][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.30-23.58.32:030][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.30-23.58.32:030][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.30-23.58.32:261][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.30-23.58.32:277][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.30-23.58.32:300][  0]LogInit: FAudioDevice initialized.
+[2018.07.30-23.58.32:383][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/gd48hao-tse/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.30-23.58.32:396][  0]LogInit: Texture streaming: Enabled
+[2018.07.30-23.58.32:418][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.30-23.58.32:436][  0]LogInit: Transaction tracking system initialized
+[2018.07.30-23.58.32:461][  0]BlueprintLog: New page: Editor Load
+[2018.07.30-23.58.32:699][  0]LocalizationService: Localization service is disabled
+[2018.07.30-23.58.32:901][  0]LogConsoleResponse: Display: 
+[2018.07.30-23.58.33:067][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.30-23.58.33:067][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.30-23.58.33:068][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.30-23.58.33:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.30-23.58.33:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.30-23.58.33:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/' took 0.01s
+[2018.07.30-23.58.33:785][  0]SourceControl: Source control is disabled
+[2018.07.30-23.58.33:790][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.07.30-23.58.33:798][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.07.30-23.58.33:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.07.30-23.58.33:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.07.30-23.58.33:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.07.30-23.58.33:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.07.30-23.58.33:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.07.30-23.58.33:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.07.30-23.58.33:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.07.30-23.58.33:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.07.30-23.58.33:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.07.30-23.58.33:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.07.30-23.58.33:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.07.30-23.58.33:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.07.30-23.58.33:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.07.30-23.58.33:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.07.30-23.58.33:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.07.30-23.58.33:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.07.30-23.58.33:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.07.30-23.58.34:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Fire01.uasset"
+[2018.07.30-23.58.34:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.07.30-23.58.34:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.07.30-23.58.34:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.07.30-23.58.34:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Light01.uasset"
+[2018.07.30-23.58.34:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.07.30-23.58.34:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Light02.uasset"
+[2018.07.30-23.58.34:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.07.30-23.58.34:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.07.30-23.58.34:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.07.30-23.58.34:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.07.30-23.58.34:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.07.30-23.58.34:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.07.30-23.58.34:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.07.30-23.58.34:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.07.30-23.58.34:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.07.30-23.58.34:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Steam01.uasset"
+[2018.07.30-23.58.34:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.07.30-23.58.34:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.07.30-23.58.34:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.07.30-23.58.34:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.07.30-23.58.34:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.07.30-23.58.34:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.07.30-23.58.34:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.07.30-23.58.34:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.07.30-23.58.34:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.07.30-23.58.34:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.07.30-23.58.34:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.07.30-23.58.34:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.07.30-23.58.34:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.07.30-23.58.34:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.07.30-23.58.34:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.07.30-23.58.34:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.07.30-23.58.34:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.07.30-23.58.34:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.07.30-23.58.34:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.07.30-23.58.34:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.07.30-23.58.34:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.07.30-23.58.34:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.07.30-23.58.34:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Maps/StarterMap.umap"
+[2018.07.30-23.58.34:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.07.30-23.58.34:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.07.30-23.58.34:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.07.30-23.58.34:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.07.30-23.58.34:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.07.30-23.58.34:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.07.30-23.58.34:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.07.30-23.58.34:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.07.30-23.58.34:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.07.30-23.58.34:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.07.30-23.58.34:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.07.30-23.58.34:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.07.30-23.58.34:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.07.30-23.58.34:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.07.30-23.58.34:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.07.30-23.58.34:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.07.30-23.58.34:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.07.30-23.58.34:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.07.30-23.58.34:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.07.30-23.58.34:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.07.30-23.58.34:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.07.30-23.58.34:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.07.30-23.58.34:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.07.30-23.58.34:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.07.30-23.58.34:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.07.30-23.58.34:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.07.30-23.58.34:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.07.30-23.58.34:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.07.30-23.58.34:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.07.30-23.58.34:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.07.30-23.58.34:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.07.30-23.58.35:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.07.30-23.58.35:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.07.30-23.58.35:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.07.30-23.58.35:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.07.30-23.58.35:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.07.30-23.58.35:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.07.30-23.58.35:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.07.30-23.58.35:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.07.30-23.58.35:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.07.30-23.58.35:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.07.30-23.58.35:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.07.30-23.58.35:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.07.30-23.58.35:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.07.30-23.58.35:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.07.30-23.58.35:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.07.30-23.58.35:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.07.30-23.58.35:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.07.30-23.58.35:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.07.30-23.58.35:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.07.30-23.58.35:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.07.30-23.58.35:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.07.30-23.58.35:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.07.30-23.58.35:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.07.30-23.58.35:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.07.30-23.58.35:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.07.30-23.58.35:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.07.30-23.58.35:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.07.30-23.58.35:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.07.30-23.58.35:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.07.30-23.58.35:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.07.30-23.58.35:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.07.30-23.58.35:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.07.30-23.58.35:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.07.30-23.58.35:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.07.30-23.58.35:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_Door.uasset"
+[2018.07.30-23.58.35:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.07.30-23.58.35:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.07.30-23.58.35:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.07.30-23.58.35:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.07.30-23.58.35:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.07.30-23.58.35:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.07.30-23.58.35:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.07.30-23.58.35:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.07.30-23.58.35:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.07.30-23.58.35:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.07.30-23.58.35:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.07.30-23.58.35:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.07.30-23.58.35:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.07.30-23.58.35:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.07.30-23.58.35:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.07.30-23.58.35:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.07.30-23.58.35:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.07.30-23.58.35:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.07.30-23.58.35:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.07.30-23.58.35:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.07.30-23.58.35:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.07.30-23.58.35:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.07.30-23.58.35:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.07.30-23.58.35:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.07.30-23.58.35:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.07.30-23.58.35:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.07.30-23.58.35:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.07.30-23.58.35:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.07.30-23.58.35:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.07.30-23.58.35:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.07.30-23.58.35:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.07.30-23.58.35:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.07.30-23.58.35:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.07.30-23.58.35:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.07.30-23.58.35:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.07.30-23.58.35:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.07.30-23.58.35:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.07.30-23.58.35:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.07.30-23.58.35:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.07.30-23.58.35:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.07.30-23.58.35:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.07.30-23.58.35:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.07.30-23.58.35:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.07.30-23.58.35:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.07.30-23.58.35:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.07.30-23.58.35:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.07.30-23.58.35:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.07.30-23.58.35:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.07.30-23.58.35:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.07.30-23.58.35:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.07.30-23.58.35:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.07.30-23.58.35:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.07.30-23.58.36:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.07.30-23.58.36:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.07.30-23.58.36:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.07.30-23.58.36:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.07.30-23.58.36:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.07.30-23.58.36:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.07.30-23.58.36:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.07.30-23.58.36:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.07.30-23.58.36:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.07.30-23.58.36:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.07.30-23.58.36:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.07.30-23.58.36:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.07.30-23.58.36:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.07.30-23.58.36:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.07.30-23.58.36:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.07.30-23.58.36:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.07.30-23.58.36:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.07.30-23.58.36:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.07.30-23.58.36:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.07.30-23.58.36:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.07.30-23.58.36:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.07.30-23.58.36:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.07.30-23.58.36:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.07.30-23.58.36:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.07.30-23.58.36:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.07.30-23.58.36:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.07.30-23.58.36:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.07.30-23.58.36:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.07.30-23.58.36:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.07.30-23.58.36:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.07.30-23.58.36:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.07.30-23.58.36:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.07.30-23.58.36:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.07.30-23.58.36:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.07.30-23.58.36:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.07.30-23.58.36:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.07.30-23.58.36:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.07.30-23.58.36:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.07.30-23.58.36:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.07.30-23.58.36:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.07.30-23.58.36:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.07.30-23.58.37:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.07.30-23.58.37:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.07.30-23.58.37:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.07.30-23.58.37:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.07.30-23.58.37:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.07.30-23.58.37:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.07.30-23.58.37:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.07.30-23.58.37:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.07.30-23.58.37:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.07.30-23.58.37:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.07.30-23.58.37:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.07.30-23.58.37:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.07.30-23.58.37:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.07.30-23.58.37:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.07.30-23.58.37:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.07.30-23.58.37:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.07.30-23.58.37:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.07.30-23.58.37:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.07.30-23.58.38:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.07.30-23.58.38:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.07.30-23.58.38:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.07.30-23.58.38:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.07.30-23.58.38:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.07.30-23.58.38:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.07.30-23.58.38:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.07.30-23.58.38:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.07.30-23.58.38:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.07.30-23.58.38:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.07.30-23.58.38:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.07.30-23.58.38:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.07.30-23.58.38:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.07.30-23.58.38:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.07.30-23.58.38:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.07.30-23.58.38:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.07.30-23.58.38:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.07.30-23.58.38:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.07.30-23.58.38:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.07.30-23.58.38:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.07.30-23.58.38:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.07.30-23.58.38:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.07.30-23.58.38:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.07.30-23.58.38:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.07.30-23.58.38:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.07.30-23.58.38:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.07.30-23.58.38:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.07.30-23.58.38:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.07.30-23.58.38:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.07.30-23.58.38:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.07.30-23.58.38:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.07.30-23.58.38:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.07.30-23.58.38:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.07.30-23.58.38:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.07.30-23.58.38:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.07.30-23.58.39:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.07.30-23.58.39:121][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.07.30-23.58.39:233][  0]LogSavePackage: Save=15.76ms
+[2018.07.30-23.58.39:233][  0]LogSavePackage: Moving '../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Saved/Floor_400x400E9806662488BDF81585FA08C60654FD5.tmp' to '../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.07.30-23.58.39:246][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.07.30-23.58.39:246][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.07.30-23.58.39:251][  0]Cmd: MAP LOAD FILE="../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/SideScrollerCPP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.30-23.58.39:252][  0]LightingResults: New page: Lighting Build
+[2018.07.30-23.58.39:256][  0]MapCheck: New page: Map Check
+[2018.07.30-23.58.39:256][  0]LightingResults: New page: Lighting Build
+[2018.07.30-23.58.39:470][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.07.30-23.58.39:500][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.30-23.58.39:513][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.30-23.58.39:906][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 392.707ms to complete.
+[2018.07.30-23.58.39:906][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.655
+[2018.07.30-23.58.40:078][  0]LogCollectionManager: Loaded 0 collections in 0.001461 seconds
+[2018.07.30-23.58.40:134][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gd48hao-tse/Desktop/UE4/SmackTown/Saved/Collections/' took 0.01s
+[2018.07.30-23.58.40:134][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/Developers/gd48haotse/Collections/' took 0.01s
+[2018.07.30-23.58.40:134][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/Collections/' took 0.01s
+[2018.07.30-23.58.40:134][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.30-23.58.40:144][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2454 classes and 560 folders.
+[2018.07.30-23.58.40:151][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.07.30-23.58.40:324][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.07.30-23.58.40:329][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.07.30-23.58.40:404][  0]LogSlate: Took 0.001804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.30-23.58.40:408][  0]LogSlate: Took 0.001779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.30-23.58.40:415][  0]LogSlate: Took 0.001539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.30-23.58.40:475][  0]LogRenderer: Reallocating scene render targets to support 1208x760 Format 10 NumSamples 1 (Frame:1).
+[2018.07.30-23.58.40:534][  0]LogSlate: Took 0.002087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.30-23.58.40:635][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.07.30-23.58.40:635][  0]LogLoad: (Engine Initialization) Total time: 30.91 seconds
+[2018.07.30-23.58.40:635][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.30-23.58.41:143][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.30-23.58.41:316][  1]LogAssetRegistry: Asset discovery search completed in 17.5315 seconds
+[2018.07.30-23.58.41:318][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.30-23.58.41:318][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.07.31-00.00.03:544][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.31-00.00.03:673][251]LogSlate: Window 'SmackTown - Unreal Editor' being destroyed
+[2018.07.31-00.00.03:673][251]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.31-00.00.03:876][252]Cmd: QUIT_EDITOR
+[2018.07.31-00.00.03:914][252]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.31-00.00.03:914][252]LogExit: Preparing to exit.
+[2018.07.31-00.00.04:857][252]LogDirectoryWatcher: A directory notification for 'C:/Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/' was aborted.
+[2018.07.31-00.00.04:878][252]LogExit: Editor shut down
+[2018.07.31-00.00.04:882][252]LogExit: Transaction tracking system shut down
+[2018.07.31-00.00.05:048][252]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.31-00.00.05:048][252]LogDirectoryWatcher: A directory notification for '../../../../../../Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/' was aborted.
+[2018.07.31-00.00.05:048][252]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.31-00.00.05:048][252]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.31-00.00.05:048][252]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.31-00.00.05:048][252]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.31-00.00.05:048][252]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.31-00.00.05:049][252]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.31-00.00.05:266][252]LogExit: Object subsystem successfully closed.
+[2018.07.31-00.00.05:283][252]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.31-00.00.05:293][252]LogD3D11RHI: Shutdown
+[2018.07.31-00.00.05:293][252]LogD3D11RHI: CleanupD3DDevice
+[2018.07.31-00.00.05:295][252]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.31-00.00.05:311][252]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.07.31-00.00.05:311][252]LogModuleManager: Shutting down and abandoning module DesktopPlatform (574)
+[2018.07.31-00.00.05:311][252]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.07.31-00.00.05:311][252]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.07.31-00.00.05:311][252]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.31-00.00.05:312][252]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.07.31-00.00.05:312][252]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.07.31-00.00.05:312][252]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.07.31-00.00.05:312][252]LogDirectoryWatcher: A directory notification for 'C:/Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/Collections/' was aborted.
+[2018.07.31-00.00.05:313][252]LogDirectoryWatcher: A directory notification for 'C:/Users/gd48hao-tse/Desktop/UE4/SmackTown/Content/Developers/gd48haotse/Collections/' was aborted.
+[2018.07.31-00.00.05:313][252]LogDirectoryWatcher: A directory notification for 'C:/Users/gd48hao-tse/Desktop/UE4/SmackTown/Saved/Collections/' was aborted.
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.07.31-00.00.05:313][252]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.07.31-00.00.05:314][252]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.07.31-00.00.05:315][252]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.07.31-00.00.05:315][252]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.07.31-00.00.05:315][252]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.07.31-00.00.05:315][252]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.07.31-00.00.05:315][252]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.07.31-00.00.05:315][252]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.07.31-00.00.05:315][252]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.07.31-00.00.05:315][252]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.07.31-00.00.05:315][252]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.07.31-00.00.05:316][252]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.07.31-00.00.05:316][252]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.07.31-00.00.05:316][252]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.07.31-00.00.05:316][252]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.07.31-00.00.05:316][252]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.07.31-00.00.06:203][252]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.07.31-00.00.06:203][252]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.07.31-00.00.06:203][252]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.07.31-00.00.06:203][252]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.07.31-00.00.06:203][252]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.07.31-00.00.06:204][252]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.07.31-00.00.06:204][252]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.07.31-00.00.06:204][252]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.07.31-00.00.06:204][252]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.07.31-00.00.06:204][252]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.07.31-00.00.06:205][252]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.07.31-00.00.06:206][252]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.07.31-00.00.06:206][252]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.07.31-00.00.06:206][252]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.07.31-00.00.06:208][252]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.07.31-00.00.06:208][252]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.07.31-00.00.06:212][252]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.07.31-00.00.06:212][252]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.07.31-00.00.06:212][252]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.07.31-00.00.06:212][252]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.07.31-00.00.06:212][252]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.07.31-00.00.06:289][252]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.07.31-00.00.06:289][252]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.07.31-00.00.06:289][252]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.07.31-00.00.06:289][252]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.07.31-00.00.06:289][252]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.07.31-00.00.06:289][252]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.07.31-00.00.06:289][252]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.07.31-00.00.06:289][252]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.07.31-00.00.06:289][252]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.07.31-00.00.06:289][252]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.07.31-00.00.06:290][252]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.07.31-00.00.06:291][252]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.07.31-00.00.06:291][252]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.07.31-00.00.06:291][252]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2018.07.31-00.00.06:316][252]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2018.07.31-00.00.06:319][252]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module SmackTown (290)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.07.31-00.00.06:320][252]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.07.31-00.00.06:421][252]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.07.31-00.00.06:522][252]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.07.31-00.00.06:522][252]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.07.31-00.00.06:522][252]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.07.31-00.00.06:522][252]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.07.31-00.00.06:522][252]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.07.31-00.00.06:522][252]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.07.31-00.00.06:523][252]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.07.31-00.00.06:523][252]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.07.31-00.00.06:523][252]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.07.31-00.00.06:523][252]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.07.31-00.00.06:523][252]LogDirectoryWatcher: A directory notification for 'C:/Users/gd48hao-tse/Desktop/UE4/SmackTown/Binaries/Win64' was aborted.
+[2018.07.31-00.00.06:525][252]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.07.31-00.00.06:526][252]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.07.31-00.00.06:526][252]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.07.31-00.00.06:526][252]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.07.31-00.00.06:526][252]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.07.31-00.00.07:281][252]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.07.31-00.00.07:281][252]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.07.31-00.00.07:281][252]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.07.31-00.00.07:281][252]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.07.31-00.00.07:287][252]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.07.31-00.00.07:288][252]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.07.31-00.00.07:288][252]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.07.31-00.00.07:288][252]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.07.31-00.00.07:288][252]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.07.31-00.00.07:289][252]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.07.31-00.00.07:290][252]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.07.31-00.00.07:568][252]LogDerivedDataCache: Shutdown
+[2018.07.31-00.00.07:568][252]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.07.31-00.00.07:568][252]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.07.31-00.00.07:568][252]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.07.31-00.00.07:568][252]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.31-00.00.07:569][252]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.31-00.00.07:569][252]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.31-00.00.07:569][252]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B343E4BAD-4FE1-F3DA-180E-8883B6BC2B5D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.1-3989454%2B%2B%2BUE4%2BRelease-4.19&UserID=716d9286425b15e4779aba91f001e0be%7C41c2d405e4324a40a41a8b4a1273a9d3%7C5195c39d-422b-4921-80af-60d90b0fd5a4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.31-00.00.07:602][252]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.31-00.00.07:603][252]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.31-00.00.07:604][252]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.31-00.00.07:604][252]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.31-00.00.07:604][252]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.31-00.00.07:604][252]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.31-00.00.07:604][252]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.31-00.00.07:604][252]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.31-00.00.07:605][252]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.31-00.00.07:610][252]LogExit: Exiting.
+[2018.07.31-00.00.07:622][252]Log file closed, 07/30/18 17:00:07
